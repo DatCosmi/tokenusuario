@@ -6,7 +6,6 @@ import PropTypes from "prop-types";
 export const Ingresar = () => {
   return (
     <>
-      <BarraSuperior />
       <FormularioIngreso />
     </>
   );
